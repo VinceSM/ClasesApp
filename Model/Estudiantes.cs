@@ -9,15 +9,15 @@ namespace gestionClases.Model
 {
     public class Estudiantes
     {
-        public int Id { get; set; }
+        public int IdEstudiantes { get; set; }
         public string? NombreCompleto { get; set; }
         public string? Telefono { get; set; }
         public string? Email { get; set; }
 
-        public DateTime? CreatedAt { get; set; }
+        public DateTime CreatedAt { get; set; }
         public DateTime? UpdatedAt { get; set; }
         public DateTime? DeletedAt { get; set; }
 
-        public virtual ICollection<EstudianteInscripcion>? Inscripciones { get; set; }
+        public ICollection<EstudianteInscripcion>? EstudianteInscripciones { get; set; }
     }
 }

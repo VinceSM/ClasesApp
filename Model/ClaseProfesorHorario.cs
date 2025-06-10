@@ -7,13 +7,16 @@ using System.Threading.Tasks;
 
 namespace ClaseApp.Model
 {
-    public class EstudianteInscripcion
+    public class ClaseProfesorHorario
     {
         public int IdClase { get; set; }
         public InscripcionClases? Clase { get; set; }
 
-        public int IdEstudiante { get; set; }
-        public Estudiantes? Estudiante { get; set; }
+        public int IdHorario { get; set; }
+        public Horarios? Horario { get; set; }
+
+        public int IdProfesor { get; set; }
+        public Profesores? Profesor { get; set; }
     }
 
 }
