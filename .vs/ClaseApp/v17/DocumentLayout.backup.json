@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Vicente\\Documents\\Visual Studio 2022\\repos\\ClaseApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4B2C717-E0E4-4A09-9657-DF43E5BEBD07}|ClaseApp.csproj|c:\\users\\vicente\\documents\\visual studio 2022\\repos\\claseapp\\resources\\gestionclasescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4B2C717-E0E4-4A09-9657-DF43E5BEBD07}|ClaseApp.csproj|solutionrelative:resources\\gestionclasescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4B2C717-E0E4-4A09-9657-DF43E5BEBD07}|ClaseApp.csproj|c:\\users\\vicente\\documents\\visual studio 2022\\repos\\claseapp\\model\\dao\\inscripcionclasesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B2C717-E0E4-4A09-9657-DF43E5BEBD07}|ClaseApp.csproj|solutionrelative:model\\dao\\inscripcionclasesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4B2C717-E0E4-4A09-9657-DF43E5BEBD07}|ClaseApp.csproj|c:\\users\\vicente\\documents\\visual studio 2022\\repos\\claseapp\\model\\estudianteinscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4B2C717-E0E4-4A09-9657-DF43E5BEBD07}|ClaseApp.csproj|solutionrelative:model\\estudianteinscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4B2C717-E0E4-4A09-9657-DF43E5BEBD07}|ClaseApp.csproj|c:\\users\\vicente\\documents\\visual studio 2022\\repos\\claseapp\\model\\profesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4B2C717-E0E4-4A09-9657-DF43E5BEBD07}|ClaseApp.csproj|solutionrelative:model\\profesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4B2C717-E0E4-4A09-9657-DF43E5BEBD07}|ClaseApp.csproj|c:\\users\\vicente\\documents\\visual studio 2022\\repos\\claseapp\\model\\claseprofesorhorario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4B2C717-E0E4-4A09-9657-DF43E5BEBD07}|ClaseApp.csproj|solutionrelative:model\\claseprofesorhorario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4B2C717-E0E4-4A09-9657-DF43E5BEBD07}|ClaseApp.csproj|c:\\users\\vicente\\documents\\visual studio 2022\\repos\\claseapp\\model\\inscripcionclases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,15 +30,28 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Profesores.cs",
-              "DocumentMoniker": "C:\\Users\\Vicente\\Documents\\Visual Studio 2022\\repos\\ClaseApp\\Model\\Profesores.cs",
-              "RelativeDocumentMoniker": "Model\\Profesores.cs",
-              "ToolTip": "C:\\Users\\Vicente\\Documents\\Visual Studio 2022\\repos\\ClaseApp\\Model\\Profesores.cs",
-              "RelativeToolTip": "Model\\Profesores.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "EstudianteInscripcion.cs",
+              "DocumentMoniker": "C:\\Users\\Vicente\\Documents\\Visual Studio 2022\\repos\\ClaseApp\\Model\\EstudianteInscripcion.cs",
+              "RelativeDocumentMoniker": "Model\\EstudianteInscripcion.cs",
+              "ToolTip": "C:\\Users\\Vicente\\Documents\\Visual Studio 2022\\repos\\ClaseApp\\Model\\EstudianteInscripcion.cs",
+              "RelativeToolTip": "Model\\EstudianteInscripcion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T02:55:41.305Z",
+              "WhenOpened": "2025-06-11T20:09:32.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClaseProfesorHorario.cs",
+              "DocumentMoniker": "C:\\Users\\Vicente\\Documents\\Visual Studio 2022\\repos\\ClaseApp\\Model\\ClaseProfesorHorario.cs",
+              "RelativeDocumentMoniker": "Model\\ClaseProfesorHorario.cs",
+              "ToolTip": "C:\\Users\\Vicente\\Documents\\Visual Studio 2022\\repos\\ClaseApp\\Model\\ClaseProfesorHorario.cs",
+              "RelativeToolTip": "Model\\ClaseProfesorHorario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T20:09:25.777Z",
               "EditorCaption": ""
             },
             {
@@ -49,35 +62,22 @@
               "RelativeDocumentMoniker": "Model\\InscripcionClases.cs",
               "ToolTip": "C:\\Users\\Vicente\\Documents\\Visual Studio 2022\\repos\\ClaseApp\\Model\\InscripcionClases.cs",
               "RelativeToolTip": "Model\\InscripcionClases.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T02:33:32.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EstudianteInscripcion.cs",
-              "DocumentMoniker": "C:\\Users\\Vicente\\Documents\\Visual Studio 2022\\repos\\ClaseApp\\Model\\EstudianteInscripcion.cs",
-              "RelativeDocumentMoniker": "Model\\EstudianteInscripcion.cs",
-              "ToolTip": "C:\\Users\\Vicente\\Documents\\Visual Studio 2022\\repos\\ClaseApp\\Model\\EstudianteInscripcion.cs",
-              "RelativeToolTip": "Model\\EstudianteInscripcion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T02:33:26.462Z",
+              "WhenOpened": "2025-06-11T20:06:44.769Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GestionClasesContext.cs",
-              "DocumentMoniker": "C:\\Users\\Vicente\\Documents\\Visual Studio 2022\\repos\\ClaseApp\\Resources\\GestionClasesContext.cs",
-              "RelativeDocumentMoniker": "Resources\\GestionClasesContext.cs",
-              "ToolTip": "C:\\Users\\Vicente\\Documents\\Visual Studio 2022\\repos\\ClaseApp\\Resources\\GestionClasesContext.cs",
-              "RelativeToolTip": "Resources\\GestionClasesContext.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAwGwAAAA3AAAAAAAAAA==",
+              "Title": "InscripcionClasesDao.cs",
+              "DocumentMoniker": "C:\\Users\\Vicente\\Documents\\Visual Studio 2022\\repos\\ClaseApp\\Model\\Dao\\InscripcionClasesDao.cs",
+              "RelativeDocumentMoniker": "Model\\Dao\\InscripcionClasesDao.cs",
+              "ToolTip": "C:\\Users\\Vicente\\Documents\\Visual Studio 2022\\repos\\ClaseApp\\Model\\Dao\\InscripcionClasesDao.cs",
+              "RelativeToolTip": "Model\\Dao\\InscripcionClasesDao.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwEEAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T22:38:59.41Z",
+              "WhenOpened": "2025-06-11T20:00:16.572Z",
               "EditorCaption": ""
             }
           ]
