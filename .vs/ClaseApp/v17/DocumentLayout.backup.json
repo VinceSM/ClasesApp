@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\ClasesApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4B2C717-E0E4-4A09-9657-DF43E5BEBD07}|ClaseApp.csproj|c:\\users\\gabri\\source\\repos\\clasesapp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{C4B2C717-E0E4-4A09-9657-DF43E5BEBD07}|ClaseApp.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C4B2C717-E0E4-4A09-9657-DF43E5BEBD07}|ClaseApp.csproj|c:\\users\\gabri\\source\\repos\\clasesapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{C4B2C717-E0E4-4A09-9657-DF43E5BEBD07}|ClaseApp.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B2C717-E0E4-4A09-9657-DF43E5BEBD07}|ClaseApp.csproj|c:\\users\\gabri\\source\\repos\\clasesapp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{C4B2C717-E0E4-4A09-9657-DF43E5BEBD07}|ClaseApp.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4B2C717-E0E4-4A09-9657-DF43E5BEBD07}|ClaseApp.csproj|c:\\users\\gabri\\source\\repos\\clasesapp\\model\\dao\\inscripcionclasesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ClasesApp\\README.md",
               "RelativeDocumentMoniker": "README.md",
@@ -63,13 +63,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ClasesApp\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
               "ToolTip": "C:\\Users\\gabri\\source\\repos\\ClasesApp\\.gitignore",
               "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-06-12T21:07:27.126Z",
               "EditorCaption": ""
@@ -120,8 +120,7 @@
               "RelativeToolTip": "Model\\Dao\\InscripcionClasesDao.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAgwEEAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T20:00:16.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T20:00:16.572Z"
             }
           ]
         }

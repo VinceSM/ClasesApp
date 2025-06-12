@@ -28,3 +28,16 @@ packages/
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+# Rider IDE
+.idea/
+
+# User-specific files
+*.userprefs
+
+# MSTest test results
+TestResults/
+
+# NCrunch
+*.ncrunch*
+*.crunch*.local.xml
